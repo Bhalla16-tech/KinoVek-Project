@@ -1,4 +1,4 @@
-﻿package com.kinovek.backend;
+package com.kinovek.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
